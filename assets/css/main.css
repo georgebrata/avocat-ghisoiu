@@ -1501,7 +1501,7 @@ section {
 }
 
 .get-a-quote .php-email-form button[type=submit]:hover {
-  background: rgba(13, 66, 255, 0.8);
+  background: var(--color-default);
 }
 
 @keyframes animate-loading {
